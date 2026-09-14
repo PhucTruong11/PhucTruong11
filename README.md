@@ -86,5 +86,5 @@ fun_fact: "I document everything I learn — check out my DE-Journey repo!"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 <div align="center">
-  <sub>Built with curiosity and a lot of coffee ☕ | <a href="https://github.com/PhucTruong11/DE-Journey">Check out my DE-Journey</a></sub>
+  <sub>Built with curiosity and a lot of coffee 
 </div>
