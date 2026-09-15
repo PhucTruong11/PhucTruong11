@@ -85,6 +85,11 @@ fun_fact: "I document everything I learn — check out my DE-Journey repo!"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
+<br />
 <div align="center">
-  <sub>Built with curiosity and a lot of coffee 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+connect+and+build+something+awesome!;May+your+queries+be+fast+and+your+data+clean!"/>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/Made_with-Curiosity_%26_Coffee-0b0f19?style=for-the-badge&logo=coffeescript&logoColor=06B6D4&labelColor=1f2937&border=1f2937" alt="Made with Coffee"/>
+  </p>
 </div>
