@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Phuc Truong 👋
+# Hey, I'm Phuc Truong
 
 </div>
 
