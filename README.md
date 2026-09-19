@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Phuc Truong
@@ -36,7 +36,7 @@ fun_fact: "I document everything I learn — check out my DE-Journey repo!"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
-## 📚 What I'm Learning
+## What I'm Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -49,7 +49,7 @@ fun_fact: "I document everything I learn — check out my DE-Journey repo!"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
-## 📊 Activity & Stats
+## Activity & Stats
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
@@ -71,7 +71,7 @@ fun_fact: "I document everything I learn — check out my DE-Journey repo!"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 
-### 🧩 GET /api/v1/about-me
+### GET /api/v1/about-me
 
 ```json
 {
